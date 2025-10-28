@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="github-banner.png" alt="Sales Dashboard Banner" width="100%">
+</p>
+
 ## 🧠 Data Model
 
 This is the data model used to build the dashboard. It shows the relationship between tables and how data flows for analysis.
