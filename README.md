@@ -1,3 +1,21 @@
+## 🧠 Data Model
+
+This is the data model used to build the dashboard. It shows the relationship between tables and how data flows for analysis.
+
+<p align="center">
+  <img src="data-model.png" alt="Data Model" width="80%">
+</p>
+
+---
+
+## 📊 Dashboard Preview
+
+Below is the main dashboard view which provides insights on sales performance.
+
+<p align="center">
+  <img src="dashboard.png" alt="Sales Dashboard" width="80%">
+</p>
+
 # 📊 Sales Analytics Power BI Dashboard
 
 This Power BI report provides an end-to-end Sales Analytics solution built using multiple related datasets including Sales, Customers, Products, Categories, Territories, and Returns.  
